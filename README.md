@@ -60,7 +60,3 @@ The bar for a model to be interesting is **beating both naive baselines outside 
 - Univariate only — no volume, macro, or sentiment features.
 - Point forecasts only — no uncertainty quantification (a natural next step would be quantile or conformal prediction intervals).
 - Architecture hyperparameters (hidden size, learning rate, lookback window) were fixed rather than tuned per model, to keep the cross-architecture comparison fair and the study tractable.
-
-## License
-
-MIT
